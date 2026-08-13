@@ -1,6 +1,6 @@
 # Gomtaeng2.github.io
 
-Source code for my personal academic website.
+Source code for my personal academic website ([Gomtaeng2.github.io](https://gomtaeng2.github.io/)).
 
 Built from [Jon Barron's website template](https://github.com/jonbarron/jonbarron_website).
 
