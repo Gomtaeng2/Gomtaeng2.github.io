@@ -1,4 +1,4 @@
-# youngjin-seo.github.io
+# Gomtaeng2.github.io
 
 Source code for my personal academic website.
 
